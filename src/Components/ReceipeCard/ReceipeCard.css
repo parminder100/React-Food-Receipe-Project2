@@ -1,0 +1,13 @@
+.receipe-card-container{
+    text-align: center;
+    box-shadow: -1px 8px 12px -5px #888888;
+    border-radius: 10px;
+}
+.receipe-image{
+    border-radius: 10px;
+}
+.receipe-name{
+    padding: 10px;
+    font-weight: 600;
+    font-size: 13px;
+}

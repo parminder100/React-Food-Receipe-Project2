@@ -1,0 +1,10 @@
+.inpute-receipe{
+    margin-bottom: 50px;
+    border-radius: 8px;
+    border: 1px solid #000;
+    padding-left: 15px;
+}
+.input-label{
+    margin-right: 15px;
+    font-weight: bold;
+}
